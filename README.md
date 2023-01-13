@@ -1,2 +1,2 @@
-# Shopping-cart-in-Local-Storage
+# Shopping cart in Local Storage in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 The classic shopping card but with the characteristic that is stored in the local storage, created in JavaScript.
